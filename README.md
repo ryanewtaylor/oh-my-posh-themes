@@ -4,7 +4,7 @@
 
 Example:
 
-![image](https://github.com/ryanewtaylor/oh-my-posh-themes/assets/1215819/76382bd1-b1fa-489e-a7c0-07728e42f2c2)
+![image](https://github.com/ryanewtaylor/oh-my-posh-themes/assets/1215819/bb08315c-0179-4f8b-af2f-bfe3e4be60b7)
 
 Window Terminal Settings:
 
