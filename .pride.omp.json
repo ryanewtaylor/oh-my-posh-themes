@@ -99,7 +99,10 @@
           "style": "plain",
           "foreground": "#193549",
           "background": "#52bf37",
-          "template": "<transparent></> \uf252 {{ .FormattedMs }}\u2800"
+          "template": "<transparent></> \uf252 {{ .FormattedMs }}\u2800",
+          "properties": {
+            "always_enabled": true
+          }
         },
         {
           "type": "exit",
